@@ -1,5 +1,19 @@
+# VIM cruft
+*.swp
+
 # Compiled class file
 *.class
+
+# Idea clutter
+src/main/java/com/com.iml
+.idea/*
+
+# Gradle clutter
+gradlew
+gradlew.bat
+build/*
+.gradle/*
+gradle/*
 
 # Log file
 *.log
